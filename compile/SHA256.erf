@@ -1,0 +1,6 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: c:/My_Designs/SHA256/SHA256/src/sha256_testbench.vhd" 
+MESSAGE "Compile Entity "sha256_tb"" 
+MESSAGE "Compile Architecture "behavior" of Entity "sha256_tb"" 
+WARNING COMP96_0421: "Array comparison is always FALSE." "c:/My_Designs/SHA256/SHA256/src/sha256_testbench.vhd" 91 11
+SUCCESS "Compile success 0 Errors 1 Warnings  Analysis time :  15.0 [ms]" 

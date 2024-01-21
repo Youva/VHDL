@@ -1,0 +1,21 @@
+[CACHESIMPLE|Aldec.SymbolsCommands.7]
+Built-in symbols=0
+SHA256=0
+[COMPILESTATUS|.\src\sha256.vhd]
+FileTimeLow=2223043858
+FileTimeHigh=31083685
+Status=Modified
+[COMPILESTATUS|.\src\sha256_pkg.vhd]
+FileTimeLow=1923476267
+FileTimeHigh=31083689
+Status=Compiled
+[COMPILESTATUS|.\src\sha256_testbench.vhd]
+FileTimeLow=1213468236
+FileTimeHigh=31083705
+Status=Modified
+[General]
+CurrentVersion=103
+[COMPILESTATUS|.\src\sha256.vhd]
+FileTimeLow=1061718646
+FileTimeHigh=31083704
+Status=Compiled

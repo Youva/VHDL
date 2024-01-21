@@ -1,0 +1,1 @@
+-w -erf c:/My_Designs/SHA256/SHA256/compile/SHA256.erf -d c:/My_Designs/SHA256/SHA256/compile -s c:/My_Designs/SHA256/library.cfg -j c:/My_Designs/SHA256/SHA256/projlib.cfg -work SHA256 -O3 -e 100 -work SHA256 -2002 c:/My_Designs/SHA256/SHA256/src/sha256_testbench.vhd 
