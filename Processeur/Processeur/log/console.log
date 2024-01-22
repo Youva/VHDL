@@ -1,0 +1,249 @@
+acom -reorder -O3 -e 100 -work Processeur -2002  $dsn/src/control-unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/control-unit.vhd
+# Compile Entity "control_unit"
+# Compile Architecture "Behavioral" of Entity "control_unit"
+# Error: COMP96_0016: control-unit.vhd : (6, 1): Design unit declaration expected.
+# Error: COMP96_0016: control-unit.vhd : (6, 6): Design unit declaration expected.
+# Error: COMP96_0018: control-unit.vhd : (16, 2): Identifier expected.
+# Error: COMP96_0019: control-unit.vhd : (55, 17): Keyword 'when' expected.
+# Error: COMP96_0019: control-unit.vhd : (60, 5): Keyword 'end' expected.
+# Error: COMP96_0019: control-unit.vhd : (62, 5): Keyword 'end' expected.
+# Error: COMP96_0019: control-unit.vhd : (64, 5): Keyword 'end' expected.
+# Error: COMP96_0016: control-unit.vhd : (64, 10): Design unit declaration expected.
+# Compile failure 8 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work Processeur -2002  $dsn/src/control-unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/control-unit.vhd
+# Compile Entity "control_unit"
+# Compile Architecture "Behavioral" of Entity "control_unit"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/My_Designs/Processeur/Processeur/src/control-unit.vhd
+# Error: COMP96_0016: control-unit.vhd : (6, 1): Design unit declaration expected.
+# Error: COMP96_0016: control-unit.vhd : (6, 6): Design unit declaration expected.
+# Compile Entity "control_unit"
+# Error: COMP96_0078: control-unit.vhd : (12, 18): Unknown identifier "std_logic".
+# Error: COMP96_0064: control-unit.vhd : (12, 18): Unknown type.
+# Error: COMP96_0078: control-unit.vhd : (13, 20): Unknown identifier "std_logic".
+# Error: COMP96_0064: control-unit.vhd : (13, 20): Unknown type.
+# Error: COMP96_0078: control-unit.vhd : (14, 26): Unknown identifier "std_logic_vector".
+# Error: COMP96_0064: control-unit.vhd : (14, 26): Unknown type.
+# Error: COMP96_0078: control-unit.vhd : (15, 26): Unknown identifier "std_logic_vector".
+# Error: COMP96_0064: control-unit.vhd : (15, 26): Unknown type.
+# Error: COMP96_0019: control-unit.vhd : (55, 17): Keyword 'when' expected.
+# Error: COMP96_0019: control-unit.vhd : (60, 5): Keyword 'end' expected.
+# Error: COMP96_0019: control-unit.vhd : (62, 5): Keyword 'end' expected.
+# Error: COMP96_0019: control-unit.vhd : (64, 5): Keyword 'end' expected.
+# Error: COMP96_0016: control-unit.vhd : (64, 10): Design unit declaration expected.
+# Compile failure 15 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work Processeur -2002  $dsn/src/control-unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/control-unit.vhd
+# Compile Entity "control_unit"
+# Compile Architecture "Behavioral" of Entity "control_unit"
+# Error: COMP96_0019: control-unit.vhd : (56, 17): Keyword 'when' expected.
+# Error: COMP96_0019: control-unit.vhd : (61, 5): Keyword 'end' expected.
+# Error: COMP96_0019: control-unit.vhd : (63, 5): Keyword 'end' expected.
+# Error: COMP96_0019: control-unit.vhd : (65, 5): Keyword 'end' expected.
+# Error: COMP96_0016: control-unit.vhd : (65, 10): Design unit declaration expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/control-unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/control-unit.vhd
+# Compile Entity "control_unit"
+# Compile Architecture "Behavioral" of Entity "control_unit"
+# Error: COMP96_0019: control-unit.vhd : (85, 17): Keyword 'case' expected.
+# Error: COMP96_0036: control-unit.vhd : (85, 19): Boolean expression expected.
+# Error: COMP96_0019: control-unit.vhd : (112, 5): Keyword 'case' expected.
+# Error: COMP96_0019: control-unit.vhd : (113, 0): Keyword 'end' expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/control-unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/control-unit.vhd
+# Compile Entity "control_unit"
+# Compile Architecture "Behavioral" of Entity "control_unit"
+# Error: COMP96_0019: control-unit.vhd : (72, 17): Keyword 'case' expected.
+# Error: COMP96_0036: control-unit.vhd : (72, 19): Boolean expression expected.
+# Error: COMP96_0019: control-unit.vhd : (73, 9): Keyword 'if' expected.
+# Error: COMP96_0015: control-unit.vhd : (73, 9): ';' expected.
+# Error: COMP96_0019: control-unit.vhd : (76, 2): Keyword 'end' expected.
+# Error: COMP96_0019: control-unit.vhd : (81, 4): Keyword 'end' expected.
+# Error: COMP96_0016: control-unit.vhd : (81, 9): Design unit declaration expected.
+# Compile failure 7 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/control-unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/control-unit.vhd
+# Compile Entity "control_unit"
+# Compile Architecture "Behavioral" of Entity "control_unit"
+# Error: COMP96_0015: control-unit.vhd : (71, 4): ';' expected.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/control-unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/control-unit.vhd
+# Compile Entity "control_unit"
+# Compile Architecture "Behavioral" of Entity "control_unit"
+# Error: COMP96_0122: control-unit.vhd : (24, 2): Symbol "state" has already been declared in this scope.
+# Error: COMP96_0078: control-unit.vhd : (33, 27): Unknown identifier "simple_alu".
+# Error: COMP96_0055: control-unit.vhd : (33, 22): Cannot find context item "work.simple_alu".
+# Error: COMP96_0078: control-unit.vhd : (42, 30): Unknown identifier "simple_memory".
+# Error: COMP96_0055: control-unit.vhd : (42, 25): Cannot find context item "work.simple_memory".
+# Error: COMP96_0071: control-unit.vhd : (53, 20): Operator "=" is not defined for such operands.
+# Error: COMP96_0077: control-unit.vhd : (53, 12): Undefined type of expression. Expected type 'BOOLEAN'.
+# Error: COMP96_0263: control-unit.vhd : (56, 9): Type names are not allowed as primaries.
+# Error: COMP96_0263: control-unit.vhd : (80, 8): Type names are not allowed as primaries.
+# Error: COMP96_0078: control-unit.vhd : (83, 9): Unknown identifier "READ_INSTRUCTION".
+# Compile failure 10 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/control-unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/control-unit.vhd
+# Compile Entity "control_unit"
+# Compile Architecture "Behavioral" of Entity "control_unit"
+# Error: COMP96_0078: control-unit.vhd : (33, 27): Unknown identifier "simple_alu".
+# Error: COMP96_0055: control-unit.vhd : (33, 22): Cannot find context item "work.simple_alu".
+# Error: COMP96_0078: control-unit.vhd : (42, 30): Unknown identifier "simple_memory".
+# Error: COMP96_0055: control-unit.vhd : (42, 25): Cannot find context item "work.simple_memory".
+# Error: COMP96_0071: control-unit.vhd : (53, 20): Operator "=" is not defined for such operands.
+# Error: COMP96_0077: control-unit.vhd : (53, 12): Undefined type of expression. Expected type 'BOOLEAN'.
+# Error: COMP96_0078: control-unit.vhd : (83, 9): Unknown identifier "READ_INSTRUCTION".
+# Compile failure 7 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/control-unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/control-unit.vhd
+# Compile Entity "control_unit"
+# Error: COMP96_0055: control-unit.vhd : (5, 10): Cannot find context item "work.simple_alu".
+# Compile Architecture "Behavioral" of Entity "control_unit"
+# Error: COMP96_0078: control-unit.vhd : (34, 27): Unknown identifier "simple_alu".
+# Error: COMP96_0055: control-unit.vhd : (34, 22): Cannot find context item "work.simple_alu".
+# Error: COMP96_0078: control-unit.vhd : (43, 30): Unknown identifier "simple_memory".
+# Error: COMP96_0055: control-unit.vhd : (43, 25): Cannot find context item "work.simple_memory".
+# Error: COMP96_0071: control-unit.vhd : (54, 20): Operator "=" is not defined for such operands.
+# Error: COMP96_0077: control-unit.vhd : (54, 12): Undefined type of expression. Expected type 'BOOLEAN'.
+# Error: COMP96_0078: control-unit.vhd : (84, 9): Unknown identifier "READ_INSTRUCTION".
+# Compile failure 8 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/control-unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/control-unit.vhd
+# Compile Entity "control_unit"
+# Compile Architecture "Behavioral" of Entity "control_unit"
+# Error: COMP96_0018: control-unit.vhd : (34, 38): Identifier expected.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/control-unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/control-unit.vhd
+# Compile Entity "control_unit"
+# Compile Architecture "Behavioral" of Entity "control_unit"
+# Error: COMP96_0018: control-unit.vhd : (35, 9): Identifier expected.
+# Error: COMP96_0018: control-unit.vhd : (44, 9): Identifier expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/alu.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/alu.vhd
+# Compile Entity "simple_alu"
+# Compile Architecture "Behavioral" of Entity "simple_alu"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/memory.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/memory.vhd
+# Compile Entity "simple_memory"
+# Compile Architecture "Behavioral" of Entity "simple_memory"
+# Error: COMP96_0078: memory.vhd : (24, 24): Unknown identifier "to_integer".
+# Error: COMP96_0133: memory.vhd : (24, 24): Cannot find object declaration.
+# Error: COMP96_0289: memory.vhd : (24, 24): Prefix of index must be an array.
+# Error: COMP96_0138: memory.vhd : (24, 24): The index types in the reference to the array object are incompatible with its range type.
+# Error: COMP96_0078: memory.vhd : (26, 32): Unknown identifier "to_integer".
+# Error: COMP96_0133: memory.vhd : (26, 32): Cannot find object declaration.
+# Error: COMP96_0289: memory.vhd : (26, 32): Prefix of index must be an array.
+# Error: COMP96_0138: memory.vhd : (26, 32): The index types in the reference to the array object are incompatible with its range type.
+# Compile failure 8 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/memory.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/memory.vhd
+# Compile Entity "simple_memory"
+# Compile Architecture "Behavioral" of Entity "simple_memory"
+# Error: COMP96_0419: memory.vhd : (25, 35): Ambiguous reference to "unsigned". Visible declarations include 'ieee.NUMERIC_STD.unsigned' and 'ieee.std_logic_arith.unsigned'.
+# Error: COMP96_0272: memory.vhd : (25, 35): Ambiguous reference to type "UNSIGNED".
+# Error: COMP96_0305: memory.vhd : (25, 24): Cannot find function "to_integer" for these actuals.
+# Error: COMP96_0138: memory.vhd : (25, 24): The index types in the reference to the array object are incompatible with its range type.
+# Error: COMP96_0419: memory.vhd : (27, 43): Ambiguous reference to "unsigned". Visible declarations include 'ieee.NUMERIC_STD.unsigned' and 'ieee.std_logic_arith.unsigned'.
+# Error: COMP96_0272: memory.vhd : (27, 43): Ambiguous reference to type "UNSIGNED".
+# Error: COMP96_0305: memory.vhd : (27, 32): Cannot find function "to_integer" for these actuals.
+# Error: COMP96_0138: memory.vhd : (27, 32): The index types in the reference to the array object are incompatible with its range type.
+# Compile failure 8 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/memory.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/memory.vhd
+# Compile Entity "simple_memory"
+# Compile Architecture "Behavioral" of Entity "simple_memory"
+# Error: COMP96_0093: memory.vhd : (25, 47): The type of a parameter in a subprogram call does not match to a formal parameter of the "ieee.NUMERIC_STD.TO_UNSIGNED(ARG : NATURAL; SIZE : NATURAL) return UNSIGNED" subprogram.
+# Error: COMP96_0419: memory.vhd : (27, 43): Ambiguous reference to "unsigned". Visible declarations include 'ieee.NUMERIC_STD.unsigned' and 'ieee.std_logic_arith.unsigned'.
+# Error: COMP96_0272: memory.vhd : (27, 43): Ambiguous reference to type "UNSIGNED".
+# Error: COMP96_0305: memory.vhd : (27, 32): Cannot find function "to_integer" for these actuals.
+# Error: COMP96_0138: memory.vhd : (27, 32): The index types in the reference to the array object are incompatible with its range type.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/memory.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/memory.vhd
+# Compile Entity "simple_memory"
+# Compile Architecture "Behavioral" of Entity "simple_memory"
+# Error: COMP96_0305: memory.vhd : (25, 24): Cannot find function "to_integer" for these actuals.
+# Error: COMP96_0138: memory.vhd : (25, 24): The index types in the reference to the array object are incompatible with its range type.
+# Error: COMP96_0419: memory.vhd : (27, 43): Ambiguous reference to "unsigned". Visible declarations include 'ieee.NUMERIC_STD.unsigned' and 'ieee.std_logic_arith.unsigned'.
+# Error: COMP96_0272: memory.vhd : (27, 43): Ambiguous reference to type "UNSIGNED".
+# Error: COMP96_0305: memory.vhd : (27, 32): Cannot find function "to_integer" for these actuals.
+# Error: COMP96_0138: memory.vhd : (27, 32): The index types in the reference to the array object are incompatible with its range type.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/memory.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/memory.vhd
+# Compile Entity "simple_memory"
+# Compile Architecture "Behavioral" of Entity "simple_memory"
+# Error: COMP96_0419: memory.vhd : (27, 43): Ambiguous reference to "unsigned". Visible declarations include 'ieee.NUMERIC_STD.unsigned' and 'ieee.std_logic_arith.unsigned'.
+# Error: COMP96_0272: memory.vhd : (27, 43): Ambiguous reference to type "UNSIGNED".
+# Error: COMP96_0305: memory.vhd : (27, 32): Cannot find function "to_integer" for these actuals.
+# Error: COMP96_0138: memory.vhd : (27, 32): The index types in the reference to the array object are incompatible with its range type.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/memory.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/memory.vhd
+# Compile Entity "simple_memory"
+# Compile Architecture "Behavioral" of Entity "simple_memory"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/control-unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/control-unit.vhd
+# Compile Entity "control_unit"
+# Compile Architecture "Behavioral" of Entity "control_unit"
+# Error: COMP96_0071: control-unit.vhd : (54, 20): Operator "=" is not defined for such operands.
+# Error: COMP96_0077: control-unit.vhd : (54, 12): Undefined type of expression. Expected type 'BOOLEAN'.
+# Error: COMP96_0078: control-unit.vhd : (84, 9): Unknown identifier "READ_INSTRUCTION".
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/control-unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/control-unit.vhd
+# Compile Entity "control_unit"
+# Compile Architecture "Behavioral" of Entity "control_unit"
+# Error: COMP96_0071: control-unit.vhd : (54, 20): Operator "=" is not defined for such operands.
+# Error: COMP96_0077: control-unit.vhd : (54, 12): Undefined type of expression. Expected type 'BOOLEAN'.
+# Error: COMP96_0301: control-unit.vhd : (81, 3): The choice 'others' must be present when all alternatives are not covered.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/control-unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/control-unit.vhd
+# Compile Entity "control_unit"
+# Compile Architecture "Behavioral" of Entity "control_unit"
+# Error: COMP96_0122: control-unit.vhd : (20, 8): Symbol "RESET" has already been declared in this scope.
+# Error: COMP96_0617: control-unit.vhd : (56, 13): Assignment target incompatible with right side. Cannot convert 'STD_ULOGIC' to 'control_state'.
+# Error: COMP96_0617: control-unit.vhd : (72, 14): Assignment target incompatible with right side. Cannot convert 'STD_ULOGIC' to 'control_state'.
+# Error: COMP96_0617: control-unit.vhd : (74, 14): Assignment target incompatible with right side. Cannot convert 'STD_ULOGIC' to 'control_state'.
+# Error: COMP96_0547: control-unit.vhd : (59, 10): Choice in selected assignments and case statements must be locally static. Use -relax to allow nonstatic expressions and discrete ranges.
+# Error: COMP96_0083: control-unit.vhd : (59, 10): The type of a choice expression does not match the case expression.
+# Error: COMP96_0279: control-unit.vhd : (83, 9): Choice in selected assignments and case statements must be locally static.
+# Error: COMP96_0083: control-unit.vhd : (83, 9): The type of a choice expression does not match the case expression.
+# Error: COMP96_0301: control-unit.vhd : (82, 3): The choice 'others' must be present when all alternatives are not covered.
+# Compile failure 9 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Processeur -2002  $dsn/src/control-unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/Processeur/Processeur/src/control-unit.vhd
+# Compile Entity "control_unit"
+# Compile Architecture "Behavioral" of Entity "con
