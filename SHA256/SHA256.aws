@@ -1,0 +1,12 @@
+[Version]
+Version=13.0
+[Designs]
+sha256=.\SHA256\SHA256.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+sha256=1

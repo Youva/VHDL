@@ -1,0 +1,5 @@
+53
+~E 1 "../src/sha256.vhd" 6 sha256
+~A 1 "../src/sha256.vhd" 22 sha256_ARCH
+~E 1 "../src/sha256_testbench.vhd" 6 sha256_tb
+~A 1 "../src/sha256_testbench.vhd" 10 behavior

@@ -1,0 +1,3 @@
+i<>.\src\alu.vhd
+i<>.\src\memory.vhd
+i<>.\src\control-unit.vhd

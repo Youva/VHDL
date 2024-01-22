@@ -1,0 +1,3 @@
+i<>.\src\sha256.vhd
+i<>.\src\sha256_pkg.vhd
+i<>.\src\sha256_testbench.vhd

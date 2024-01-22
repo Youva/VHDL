@@ -1,0 +1,7 @@
+9
+~E 1 "../src/control-unit.vhd" 8 control_unit
+~A 1 "../src/control-unit.vhd" 18 Behavioral
+~E 1 "../src/alu.vhd" 6 simple_alu
+~A 1 "../src/alu.vhd" 17 Behavioral
+~E 1 "../src/memory.vhd" 7 simple_memory
+~A 1 "../src/memory.vhd" 17 Behavioral

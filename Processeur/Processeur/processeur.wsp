@@ -1,0 +1,21 @@
+[CACHESIMPLE|Aldec.SymbolsCommands.7]
+Built-in symbols=0
+Processeur=0
+[COMPILESTATUS|.\src\alu.vhd]
+FileTimeLow=3787890767
+FileTimeHigh=31083726
+Status=Compiled
+[COMPILESTATUS|.\src\memory.vhd]
+FileTimeLow=240286852
+FileTimeHigh=31083739
+Status=Compiled
+[General]
+CurrentVersion=103
+[CACHEDOC|Aldec.Project.Generic.7|.\Processeur\Processeur.adf|]
+Path=
+[COMPILESTATUS|.\src\control-unit.vhd]
+FileTimeLow=2322313171
+FileTimeHigh=31083739
+Status=Compiled
+[Gui config]
+RunFor=100 ns
