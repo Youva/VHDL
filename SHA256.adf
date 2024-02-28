@@ -24,9 +24,11 @@ UCF=
 /sha256.vhd=-1
 /sha256_pkg.vhd=-1
 /sha256_testbench.vhd=-1
-/sha256.vhd=-1
 [Files.Data]
 .\src\sha256.vhd=VHDL Source Code
 .\src\sha256_pkg.vhd=VHDL Source Code
 .\src\sha256_testbench.vhd=VHDL Source Code
-.\src\sha256.vhd=VHDL Source Code
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=

@@ -1,0 +1,9 @@
+22
+~E 1 "../src/alu.vhd" 10 SimpleALU
+~A 1 "../src/alu.vhd" 32 Behavioral
+~E 1 "../src/alu-tb.vhd" 5 SimpleALU_tb
+~A 1 "../src/alu-tb.vhd" 9 Behavioral
+~E 1 "../src/memoire.vhd" 5 SimpleMemory
+~A 1 "../src/memoire.vhd" 19 Behavioral
+~E 1 "../src/memoire-tb.vhd" 5 SimpleMemory_tb
+~A 1 "../src/memoire-tb.vhd" 9 Behavioral

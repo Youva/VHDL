@@ -1,0 +1,4 @@
+.\src\memoire.vhd
+.\src\memoire-tb.vhd
+.\src\alu.vhd
+.\src\alu-tb.vhd

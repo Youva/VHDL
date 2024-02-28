@@ -1,0 +1,4 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Error: Architecture 'behavior' of entity 'sha256_tb' not found in library 'sha256'.
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed

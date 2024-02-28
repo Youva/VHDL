@@ -1,0 +1,1 @@
+-w -erf C:/My_Designs/Processeur/Processeur/compile/Processeur.erf -d C:/My_Designs/Processeur/Processeur/compile -s C:/My_Designs/Processeur/library.cfg -j C:/My_Designs/Processeur/Processeur/projlib.cfg -work Processeur -O3 -e 100 -work Processeur -2008 C:/My_Designs/Processeur/Processeur/src/alu-tb.vhd 
